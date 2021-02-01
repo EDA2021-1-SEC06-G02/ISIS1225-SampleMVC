@@ -1,7 +1,7 @@
 #Integrantes
 
-* Marco Zuliani
-* Javier Cerino
+* Marco Zuliani m.zuliani 202022412
+* Javier Cerino j.cerino  202020873
 
 #ISIS1225 - Estructura de un proyecto
 
